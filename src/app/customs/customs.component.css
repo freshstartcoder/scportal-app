@@ -1,0 +1,22 @@
+.parent {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  margin-top: 5%;
+  margin-left: 10%;
+  flex-direction: column;
+  width: 50%;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 10%;
+  width: 50%;
+}
+
+.right {
+  text-align: right;
+}

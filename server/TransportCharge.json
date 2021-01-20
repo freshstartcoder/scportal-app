@@ -1,0 +1,32 @@
+{
+  "transport_charge": [
+    {
+      "value": "A",
+      "name": "Payment in Cash"
+    },
+    {
+      "value": "B",
+      "name": "Payment by Credit Card"
+    },
+    {
+      "value": "C",
+      "name": "Payment by Cheque"
+    },
+    {
+      "value": "D",
+      "name": "Other"
+    },
+    {
+      "value": "H",
+      "name": "Electronic Credit Transfer"
+    },
+    {
+      "value": "Y",
+      "name": "Account Holder with Carrier"
+    },
+    {
+      "value": "Z",
+      "name": "Not Pre-Paid"
+    }
+  ]
+}

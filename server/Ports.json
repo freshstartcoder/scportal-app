@@ -1,0 +1,1684 @@
+{
+  "Ports": [
+    {
+      "value": "GBAUABDABDABD",
+      "name": "Aberdeen Docks"
+    },
+    {
+      "value": "GBAUAULINVEWE",
+      "name": "Aultbea - Loch Ewe Pier, NATO POL Depot"
+    },
+    {
+      "value": "GBAUAVOAVOAVO",
+      "name": "Avonmouth Docks"
+    },
+    {
+      "value": "GBAUAVOAVOCSX",
+      "name": "Avonmouth - Royal Edward Dock X Berth"
+    },
+    {
+      "value": "GBAUAYRAYRAYR",
+      "name": "Ayr Harbour"
+    },
+    {
+      "value": "GBAUBADCDFBAD",
+      "name": "Barry Dock "
+    },
+    {
+      "value": "GBAUBADCDFVPK",
+      "name": "Barry Dock - Vopak Wharf. Berths 8 & 9"
+    },
+    {
+      "value": "GBAUBELBELBEL",
+      "name": "Belfast Port"
+    },
+    {
+      "value": "GBAUBELBELOB4",
+      "name": "Belfast - Oil Berth 4"
+    },
+    {
+      "value": "GBAUBELBFSBEL",
+      "name": "Belfast Airport"
+    },
+    {
+      "value": "GBAUBFBGRGP40",
+      "name": "Braefoot Bay - Exxon Ethylene Jetty (P40)"
+    },
+    {
+      "value": "GBAUBFBGRGSHL",
+      "name": "Braefoot Bay - Shell Jetty"
+    },
+    {
+      "value": "GBAUBFYSWABFY",
+      "name": "Briton Ferry - Giants Wharf"
+    },
+    {
+      "value": "GBAUBHKBHKBHK",
+      "name": "Bromborough - Mersey Wharf"
+    },
+    {
+      "value": "GBAUBHMBHXBHM",
+      "name": "Birmingham Airport"
+    },
+    {
+      "value": "GBAUBHVGRGWYQ",
+      "name": "Buckhaven - Wellesley Yard Quay"
+    },
+    {
+      "value": "GBAUBHWMIDBRO",
+      "name": "Billingham Reach & Oil Jetties"
+    },
+    {
+      "value": "GBAUBIDWATBID",
+      "name": "Bideford - The Town Quay"
+    },
+    {
+      "value": "GBAUBIFBARBDD",
+      "name": "Barrow in Furness - Buccleuch & Devonshire Dock"
+    },
+    {
+      "value": "GBAUBIFBARBIF",
+      "name": "Barrow in Furness "
+    },
+    {
+      "value": "GBAUBKGLONBDW",
+      "name": "Barking [London] - Docklands Wharf"
+    },
+    {
+      "value": "GBAUBKGLONPIN",
+      "name": "Barking [London] - Pinns Wharf"
+    },
+    {
+      "value": "GBAUBKGLONSVW",
+      "name": "Barking [London] - Sivyer Wharf"
+    },
+    {
+      "value": "GBAUBLKBLKBLK",
+      "name": "Blackpool Airport"
+    },
+    {
+      "value": "GBAUBLSCOLBOW",
+      "name": "Brightlingsea - Olivers Wharf"
+    },
+    {
+      "value": "GBAUBLYBLYBLY",
+      "name": "Blyth Harbour"
+    },
+    {
+      "value": "GBAUBLYBLYRIO",
+      "name": "Blyth - Rio Tinto Alan Shipping Unloading Facility"
+    },
+    {
+      "value": "GBAUBOSBOSBOS",
+      "name": "Boston "
+    },
+    {
+      "value": "GBAUBQHBQHBQH",
+      "name": "Biggin Hill (London) Airport"
+    },
+    {
+      "value": "GBAUBRKLIVBRK",
+      "name": "Birkenhead - Base Harbour Port Facility"
+    },
+    {
+      "value": "GBAUBRSBRSBRS",
+      "name": "Bristol Airport"
+    },
+    {
+      "value": "GBAUBRVHULBRV",
+      "name": "Barrow Haven - Old Ferry Wharf"
+    },
+    {
+      "value": "GBAUBTLGRGBTL",
+      "name": "Burntisland Docks"
+    },
+    {
+      "value": "GBAUBUCFRBBUC",
+      "name": "Buckie [Cluny] Harbour"
+    },
+    {
+      "value": "GBAUBWKBLYBWK",
+      "name": "Berwick-upon-Tweed "
+    },
+    {
+      "value": "GBAUBZZBZNRAF",
+      "name": "Brize Norton RAF Base"
+    },
+    {
+      "value": "GBAUCANLONCAL",
+      "name": "Canvey Island - Calor Gas Jetty"
+    },
+    {
+      "value": "GBAUCANLONHHW",
+      "name": "Canvey Island - Hole Haven Wharf"
+    },
+    {
+      "value": "GBAUCBTARGNPJ",
+      "name": "Campbeltown - NATO POL Jetty"
+    },
+    {
+      "value": "GBAUCBTARGONQ",
+      "name": "Campbeltown - Old & New Quay"
+    },
+    {
+      "value": "GBAUCDFCDFCDF",
+      "name": "Cardiff Docks"
+    },
+    {
+      "value": "GBAUCGPBELCGP",
+      "name": "Cloghan Point Oil Jetty"
+    },
+    {
+      "value": "GBAUCHEMOSCHE",
+      "name": "Mostyn "
+    },
+    {
+      "value": "GBAUCLRCLRCLR",
+      "name": "Coleraine "
+    },
+    {
+      "value": "GBAUCLYGLWRTH",
+      "name": "Rothesay Dock - Clydebank"
+    },
+    {
+      "value": "GBAUCMGCBGCMG",
+      "name": "Cambridge Airport"
+    },
+    {
+      "value": "GBAUCNUARGCNU",
+      "name": "Craignure [Isle of Mull]"
+    },
+    {
+      "value": "GBAUCORINVCOR",
+      "name": "Corpach - Annat Point"
+    },
+    {
+      "value": "GBAUCOUGRKCOU",
+      "name": "Coulport - RNAD Jetties"
+    },
+    {
+      "value": "GBAUCOWCOWCOW",
+      "name": "Cowes - Medina Wharf"
+    },
+    {
+      "value": "GBAUCTMMEDNO1",
+      "name": "Chatham Dock - No.1 Berth"
+    },
+    {
+      "value": "GBAUCTMMEDNO2",
+      "name": "Chatham Dock - No.2 Berth"
+    },
+    {
+      "value": "GBAUCTMMEDTSS",
+      "name": "Chatham Dock - Berths 3,4,6 & 7 [Total Ship Service"
+    },
+    {
+      "value": "GBAUCVTCVTCVT",
+      "name": "Coventry Airport"
+    },
+    {
+      "value": "GBAUCYYHLDCYY",
+      "name": "Colwyn Bay (Bae Colwyn) "
+    },
+    {
+      "value": "GBAUDAGLONARC",
+      "name": "Dagenham - ARC Jetty [Hanson]"
+    },
+    {
+      "value": "GBAUDAGLONCMX",
+      "name": "Dagenham - Jetty No. 8, CEMEX"
+    },
+    {
+      "value": "GBAUDAGLONDTJ",
+      "name": "Dagenham - Thunderer Jetty"
+    },
+    {
+      "value": "GBAUDAGLONEJ9",
+      "name": "Dagenham - East Jetty No. 9"
+    },
+    {
+      "value": "GBAUDAGLONFRD",
+      "name": "Dagenham - Fords Jetty & Estate"
+    },
+    {
+      "value": "GBAUDFDLONDFD",
+      "name": "Dartford Freight Terminal"
+    },
+    {
+      "value": "GBAUDFDTEPDFD",
+      "name": "Thames Europort"
+    },
+    {
+      "value": "GBAUDNUARGHLM",
+      "name": "Holy Loch Marina - Dunoon"
+    },
+    {
+      "value": "GBAUDRLMMEDRL",
+      "name": "Durham Tees Valley Airport - Teesside"
+    },
+    {
+      "value": "GBAUDUNDUNDUN",
+      "name": "Dundee "
+    },
+    {
+      "value": "GBAUDVRDOVAPC",
+      "name": "Dover - Admiralty Pier & Cruise Terminal"
+    },
+    {
+      "value": "GBAUDVRDOVDVR",
+      "name": "Dover Eastern Docks"
+    },
+    {
+      "value": "GBAUDYCABZBOND",
+      "name": "Aberdeen Airport - Dyce [Bond Offshore Helicopters]"
+    },
+    {
+      "value": "GBAUDYCABZBSTW",
+      "name": "Aberdeen Airport - Dyce [Bristow Helicopters]"
+    },
+    {
+      "value": "GBAUDYCABZCHC",
+      "name": "Aberdeen Airport - Dyce [CHC Scotia]"
+    },
+    {
+      "value": "GBAUDYCABZDYC",
+      "name": "Aberdeen Airport - Dyce"
+    },
+    {
+      "value": "GBAUEATSOUEAT",
+      "name": "Southampton Airport - Eastleigh"
+    },
+    {
+      "value": "GBAUEDIEDIEDI",
+      "name": "Edinburgh Airport"
+    },
+    {
+      "value": "GBAUELLELLELL",
+      "name": "Ellesmere Port - Innospec Wharf"
+    },
+    {
+      "value": "GBAUEMAEMAEMA",
+      "name": "East Midlands Apt "
+    },
+    {
+      "value": "GBAUERIMEDEOW",
+      "name": "Erith Oil Works - Jetties 1,2 & 3; Albion Wharf"
+    },
+    {
+      "value": "GBAUESHESHESH",
+      "name": "Brighton City Airport - Shoreham-by-Sea"
+    },
+    {
+      "value": "GBAUESHSHOEGY",
+      "name": "Shoreham-by-Sea - Egypt Wharf"
+    },
+    {
+      "value": "GBAUESHSHOESH",
+      "name": "Shoreham-by-Sea "
+    },
+    {
+      "value": "GBAUESHSHOKWW",
+      "name": "Shoreham-by-Sea - Kingston Wharf West"
+    },
+    {
+      "value": "GBAUEVTINVEVT",
+      "name": "Evanton Wharf - Highland Deephaven"
+    },
+    {
+      "value": "GBAUEXEEXTEXE",
+      "name": "Exeter Airport"
+    },
+    {
+      "value": "GBAUFALFALFAL",
+      "name": "Falmouth "
+    },
+    {
+      "value": "GBAUFASGRKFAS",
+      "name": "Faslane HM Naval Base"
+    },
+    {
+      "value": "GBAUFAWSTNFAW",
+      "name": "Fawley Wharf [Esso Refinary]"
+    },
+    {
+      "value": "GBAUFBOFABFBO",
+      "name": "Farnborough Airport"
+    },
+    {
+      "value": "GBAUFELFLTFEL",
+      "name": "Feltwell RAF Base"
+    },
+    {
+      "value": "GBAUFFOFFDFFO",
+      "name": "Fairford RAF Base"
+    },
+    {
+      "value": "GBAUFISFISFIS",
+      "name": "Fishguard "
+    },
+    {
+      "value": "GBAUFLEFLEFLE",
+      "name": "Fleetwood "
+    },
+    {
+      "value": "GBAUFLHKWLFLH",
+      "name": "Flotta Oil Terminal"
+    },
+    {
+      "value": "GBAUFLWTRTFLW",
+      "name": "Flixborough Wharf"
+    },
+    {
+      "value": "GBAUFOYFOYFOY",
+      "name": "Fowey Harbour"
+    },
+    {
+      "value": "GBAUFRBFRBFRB",
+      "name": "Fraserburgh Harbour"
+    },
+    {
+      "value": "GBAUFXTFXTFXT",
+      "name": "Felixstowe "
+    },
+    {
+      "value": "GBAUGADGRGFOT",
+      "name": "Garelochhead - Finnart Ocean Terminal"
+    },
+    {
+      "value": "GBAUGADGRGOFD",
+      "name": "Garelochhead - Oil Fuel Depot"
+    },
+    {
+      "value": "GBAUGARINVGAR",
+      "name": "Gairloch Wharf"
+    },
+    {
+      "value": "GBAUGLDLIVGLD",
+      "name": "Glasson Dock "
+    },
+    {
+      "value": "GBAUGLWGLAGLW",
+      "name": "Glasgow Airport"
+    },
+    {
+      "value": "GBAUGLWGLWBCW",
+      "name": "Glasgow - Barclay Curle Engine Wharf"
+    },
+    {
+      "value": "GBAUGLWGLWGLW",
+      "name": "Glasgow King George V Dock"
+    },
+    {
+      "value": "GBAUGLWGLWGRB",
+      "name": "Glasgow King George V Dock - Riverside Berth"
+    },
+    {
+      "value": "GBAUGLWGLWIGD",
+      "name": "Glasgow - Inchgreen Dock"
+    },
+    {
+      "value": "GBAUGNWLONFCT",
+      "name": "Greenwich - Floating Cruise Terminal"
+    },
+    {
+      "value": "GBAUGNWLONVIC",
+      "name": "Greenwich - Victoria Deep Water Terminal"
+    },
+    {
+      "value": "GBAUGOAHRHGOA",
+      "name": "Great Oakley Works - Bramble Island"
+    },
+    {
+      "value": "GBAUGOOGOOGOO",
+      "name": "Goole "
+    },
+    {
+      "value": "GBAUGOSPTMOFD",
+      "name": "Gosport – Oil Fuel Depot"
+    },
+    {
+      "value": "GBAUGRGGRGDMC",
+      "name": "Grangemouth - D M Crombie New Jetty"
+    },
+    {
+      "value": "GBAUGRGGRGE12",
+      "name": "Grangemouth - Petroineos Jetty Heads E1 & E2"
+    },
+    {
+      "value": "GBAUGRGGRGGRG",
+      "name": "Grangemouth Docks"
+    },
+    {
+      "value": "GBAUGRGGRGINR",
+      "name": "Grangemouth - Ineos Refinery, Jetties J1 J2 & J3"
+    },
+    {
+      "value": "GBAUGRGGRGLPG",
+      "name": "Grangemouth - RLPG (BP) Jetty"
+    },
+    {
+      "value": "GBAUGRGHPTHPT",
+      "name": "Grangemouth - Hound Point Tanker Berths 1 & 2"
+    },
+    {
+      "value": "GBAUGRKGRKGRK",
+      "name": "Greenock - Ocean Terminal"
+    },
+    {
+      "value": "GBAUGSAOBAGSA",
+      "name": "Glensanda Jetty"
+    },
+    {
+      "value": "GBAUGSYGRIGSY",
+      "name": "Grimsby "
+    },
+    {
+      "value": "GBAUGTNLIVGTN",
+      "name": "Garston Docks"
+    },
+    {
+      "value": "GBAUGTYGTYGTY",
+      "name": "Great Yarmouth "
+    },
+    {
+      "value": "GBAUGTYGTYKGF",
+      "name": "Great Yarmouth - Kings Wharf"
+    },
+    {
+      "value": "GBAUGUSTRTGRO",
+      "name": "Gunness - Grove Wharf"
+    },
+    {
+      "value": "GBAUGUSTRTNHW",
+      "name": "Gunness - Neap House Wharf"
+    },
+    {
+      "value": "GBAUGUWTRTGUW",
+      "name": "Gunness Wharf "
+    },
+    {
+      "value": "GBAUGVSMEDCMT",
+      "name": "Gravesend - Clubbs Maritime Terminal"
+    },
+    {
+      "value": "GBAUGYSLONGOJ",
+      "name": "Grays - Oil Jetty, West Thurrock"
+    },
+    {
+      "value": "GBAUGYSLONGTW",
+      "name": "Grays - Titan Works, West Thurrock Jetty"
+    },
+    {
+      "value": "GBAUGYSLONNST",
+      "name": "Grays - NuStar Terminal Jetties 1 & 2"
+    },
+    {
+      "value": "GBAUHAMSTNHAM",
+      "name": "Hamble Jetty [BP]"
+    },
+    {
+      "value": "GBAUHDDGOOHDD",
+      "name": "Howden Dyke - Wharves 1,2,3 & 4"
+    },
+    {
+      "value": "GBAUHLYHLDHLY",
+      "name": "Holyhead "
+    },
+    {
+      "value": "GBAUHRTMWHHRT",
+      "name": "Menwith Hill RAF Base"
+    },
+    {
+      "value": "GBAUHRWHRHHRW",
+      "name": "Harwich – Parkeston Quay"
+    },
+    {
+      "value": "GBAUHRWHRHNYW",
+      "name": "Harwich - Navyard Wharf"
+    },
+    {
+      "value": "GBAUHTPHTPHTP",
+      "name": "Hartlepool "
+    },
+    {
+      "value": "GBAUHTPHTPSPQ",
+      "name": "Hartlepool - Seaton Port Quays 1,10 & 11 (TERRC)"
+    },
+    {
+      "value": "GBAUHULHULHUL",
+      "name": "Hull "
+    },
+    {
+      "value": "GBAUHYMHEYHYM",
+      "name": "Heysham "
+    },
+    {
+      "value": "GBAUIMMIMMIMM",
+      "name": "Immingham Docks"
+    },
+    {
+      "value": "GBAUINKGRGENT",
+      "name": "Inverkeithing - East Ness Terminal"
+    },
+    {
+      "value": "GBAUINKGRGINK",
+      "name": "Inverkeithing Harbour"
+    },
+    {
+      "value": "GBAUINVINVINV",
+      "name": "Inverness "
+    },
+    {
+      "value": "GBAUIOGMEDBPO",
+      "name": "Isle of Grain - BP Oils Wharf"
+    },
+    {
+      "value": "GBAUIOGMEDLNG",
+      "name": "Isle of Grain - GRAIN LNG"
+    },
+    {
+      "value": "GBAUIOGMEDNSJ",
+      "name": "Isle of Grain - No. 6 Jetty"
+    },
+    {
+      "value": "GBAUIPSIPSIPS",
+      "name": "Ipswich Dock"
+    },
+    {
+      "value": "GBAUIPSIPSOTE",
+      "name": "Ipswich - Orwell Terminal, Eagle Wharf"
+    },
+    {
+      "value": "GBAUIVGIVGAMP",
+      "name": "Invergordon - Admiralty Pier"
+    },
+    {
+      "value": "GBAUIVGIVGIVG",
+      "name": "Invergordon - Saltburn Pier & Service Base"
+    },
+    {
+      "value": "GBAUKBEKLBKBE",
+      "name": "Kinlochbervie "
+    },
+    {
+      "value": "GBAUKEATRTKEA",
+      "name": "Keadby Wharf"
+    },
+    {
+      "value": "GBAUKKDGRGKKD",
+      "name": "Kirkcaldy Dock - East Quay"
+    },
+    {
+      "value": "GBAUKLNKLNKLN",
+      "name": "King's Lynn "
+    },
+    {
+      "value": "GBAUKMGHUYKMG",
+      "name": "Humberside Airport - Kirmington"
+    },
+    {
+      "value": "GBAUKPSBELKPS",
+      "name": "Kilroot Power Station Jetty "
+    },
+    {
+      "value": "GBAUKSUIMMAPT",
+      "name": "South Killingholme - APT Jetty"
+    },
+    {
+      "value": "GBAUKWLKWLKWL",
+      "name": "Kirkwall "
+    },
+    {
+      "value": "GBAULAKLKHLAK",
+      "name": "Lakenheath RAF Base"
+    },
+    {
+      "value": "GBAULARBELLAR",
+      "name": "Larne Harbour"
+    },
+    {
+      "value": "GBAULCGARGLCG",
+      "name": "Loch Long - Glen Mallen Jetty MOD DSDA"
+    },
+    {
+      "value": "GBAULCTLCYLCT",
+      "name": "London City Airport "
+    },
+    {
+      "value": "GBAULDYLDYLDY",
+      "name": "Londonderry"
+    },
+    {
+      "value": "GBAULEILEILEI",
+      "name": "Leith "
+    },
+    {
+      "value": "GBAULERLERLER",
+      "name": "Lerwick "
+    },
+    {
+      "value": "GBAULGPLGPLGP",
+      "name": "London Gateway Port "
+    },
+    {
+      "value": "GBAULGSGRKLGS",
+      "name": "Largs - Hunterstown Terminal"
+    },
+    {
+      "value": "GBAULGWLGWLGW",
+      "name": "Gatwick Apt/London "
+    },
+    {
+      "value": "GBAULHRLHRLHR",
+      "name": "London Heathrow Airport"
+    },
+    {
+      "value": "GBAULHSGRKLHS",
+      "name": "Loch Striven - NATO POL Jetty"
+    },
+    {
+      "value": "GBAULITSHOLIT",
+      "name": "Littlehampton Quayside"
+    },
+    {
+      "value": "GBAULIVLIVCRU",
+      "name": "Liverpool - Cruise Terminal, Princess Dock"
+    },
+    {
+      "value": "GBAULIVLIVLIV",
+      "name": "Liverpool Docks"
+    },
+    {
+      "value": "GBAULONLONTMP",
+      "name": "London - Tower Millenium Pier Cruise Terminal"
+    },
+    {
+      "value": "GBAULOVLCVLOV",
+      "name": "Lochinver "
+    },
+    {
+      "value": "GBAULOWLOWLNQ",
+      "name": "Lowestoft - North Quay, Grain Silo"
+    },
+    {
+      "value": "GBAULOWLOWLOW",
+      "name": "Lowestoft "
+    },
+    {
+      "value": "GBAULSILSILSI",
+      "name": "Sumburgh Airport"
+    },
+    {
+      "value": "GBAULTPTHPLTP",
+      "name": "London Thamesport - Isle of Grain"
+    },
+    {
+      "value": "GBAULUTLTNLUT",
+      "name": "Luton Airport"
+    },
+    {
+      "value": "GBAULYELYHLYE",
+      "name": "Lyneham RAF Base"
+    },
+    {
+      "value": "GBAULYXLYDLYX",
+      "name": "London Ashford Airport - Lydd"
+    },
+    {
+      "value": "GBAUMAWSTNSMC",
+      "name": "Marchwood Port – Sea Mounting Centre"
+    },
+    {
+      "value": "GBAUMIDMIDCCW",
+      "name": "Middlesbrough - Cochranes Wharf"
+    },
+    {
+      "value": "GBAUMIDMIDDWW",
+      "name": "Middlesbrough - Dawsons Wharf & North Sea Supply Ba"
+    },
+    {
+      "value": "GBAUMIDMIDNMB",
+      "name": "Middlesbrough - Normanby Wharf"
+    },
+    {
+      "value": "GBAUMISHRHMIS",
+      "name": "Mistley Wharf"
+    },
+    {
+      "value": "GBAUMLFMILLNG",
+      "name": "Milford Haven - South Hook LNG Berths 1 & 2"
+    },
+    {
+      "value": "GBAUMLFMILPEM",
+      "name": "Milford Haven - Pembroke Refinery"
+    },
+    {
+      "value": "GBAUMLFMILRTB",
+      "name": "Milford Haven - Refinery Terminal Berths 1 - 3"
+    },
+    {
+      "value": "GBAUMLFMILSEM",
+      "name": "Milford Haven - Semlogistics Berths 2 & 3"
+    },
+    {
+      "value": "GBAUMLLMDHMLL",
+      "name": "Mildenhall RAF Base"
+    },
+    {
+      "value": "GBAUMNCMANMNC",
+      "name": "Manchester Airport"
+    },
+    {
+      "value": "GBAUMONMONMON",
+      "name": "Montrose "
+    },
+    {
+      "value": "GBAUMSCMNCMSC",
+      "name": "Manchester Ship Canal"
+    },
+    {
+      "value": "GBAUMTHGRGMTH",
+      "name": "Methil "
+    },
+    {
+      "value": "GBAUMYNLDYMYN",
+      "name": "Maydown - Oil Terminal, Coolkeeragh"
+    },
+    {
+      "value": "GBAUNFTMED42W",
+      "name": "Northfleet - 42 Wharf [Cement Works]"
+    },
+    {
+      "value": "GBAUNFTMEDNTW",
+      "name": "Northfleet - Terminal Wharf"
+    },
+    {
+      "value": "GBAUNFTMEDRLW",
+      "name": "Northfleet - Red Lion Wharf"
+    },
+    {
+      "value": "GBAUNGGABDNGG",
+      "name": "Nigg Oil Terminal [Jacky Oil Platform]"
+    },
+    {
+      "value": "GBAUNHOIMMNHD",
+      "name": "New Holland Dock"
+    },
+    {
+      "value": "GBAUNHOIMMNHP",
+      "name": "New Holland Pier"
+    },
+    {
+      "value": "GBAUNHTLHRRAF",
+      "name": "Northolt RAF Base"
+    },
+    {
+      "value": "GBAUNHVNHVNHV",
+      "name": "Newhaven "
+    },
+    {
+      "value": "GBAUNKHIMMNKH",
+      "name": "North Killingholme - Humber Sea Terminal"
+    },
+    {
+      "value": "GBAUNPTNPTALX",
+      "name": "Newport - Alexandra Dock"
+    },
+    {
+      "value": "GBAUNPTNPTBPW",
+      "name": "Newport - Bird Port Wharf"
+    },
+    {
+      "value": "GBAUNPTNPTLSW",
+      "name": "Newport - Liberty Steel Wharf"
+    },
+    {
+      "value": "GBAUNPTNPTNPT",
+      "name": "Newport - Alexander Dock"
+    },
+    {
+      "value": "GBAUNQYNQYNQY",
+      "name": "Newquay Airport"
+    },
+    {
+      "value": "GBAUNRWNWINRW",
+      "name": "Norwich Airport"
+    },
+    {
+      "value": "GBAUNSHTYNNSH",
+      "name": "North Shields "
+    },
+    {
+      "value": "GBAUNYLPENNYL",
+      "name": "Newlyn - North, South & Mary Williams Piers; Fish M"
+    },
+    {
+      "value": "GBAUPEDMILPED",
+      "name": "Pembroke Dock "
+    },
+    {
+      "value": "GBAUPERDUNPER",
+      "name": "Perth Harbour"
+    },
+    {
+      "value": "GBAUPFTLONCMJ",
+      "name": "Purfleet - Civil & Marine Jetty"
+    },
+    {
+      "value": "GBAUPFTLONESS",
+      "name": "Purfleet - Esso No 1 Jetty"
+    },
+    {
+      "value": "GBAUPFTLONJUJ",
+      "name": "Purfleet - Jurgens Jetty"
+    },
+    {
+      "value": "GBAUPFTLONPFT",
+      "name": "Purfleet - C-Ro"
+    },
+    {
+      "value": "GBAUPHDPHDPHD",
+      "name": "Peterhead "
+    },
+    {
+      "value": "GBAUPIKPIKPIK",
+      "name": "Prestwick Airport"
+    },
+    {
+      "value": "GBAUPLYPLYCDW",
+      "name": "Plymouth - Cattledown Wharf"
+    },
+    {
+      "value": "GBAUPLYPLYCOR",
+      "name": "Plymouth - Corporation Wharf"
+    },
+    {
+      "value": "GBAUPLYPLYPLY",
+      "name": "Plymouth - Millbay Docks"
+    },
+    {
+      "value": "GBAUPLYPLYPPJ",
+      "name": "Plymouth - Pomphlett Jetty"
+    },
+    {
+      "value": "GBAUPLYPLYVCW",
+      "name": "Plymouth - Victoria Wharf"
+    },
+    {
+      "value": "GBAUPMEPTMAJQ",
+      "name": "Portsmouth - Albert Johnson Quay"
+    },
+    {
+      "value": "GBAUPMEPTMFHQ",
+      "name": "Portsmouth - Flathouse Quay"
+    },
+    {
+      "value": "GBAUPMEPTMHMN",
+      "name": "Portsmouth - H M Naval Base, Oil Fuel Jetty & Beden"
+    },
+    {
+      "value": "GBAUPMEPTMPME",
+      "name": "Portsmouth Continental Ferry Port"
+    },
+    {
+      "value": "GBAUPNLNCLPNL",
+      "name": "Newcastle International Airport - Ponteland"
+    },
+    {
+      "value": "GBAUPOCMIDNAV",
+      "name": "Port Clarence - North Tees Site No. 4 Jetty"
+    },
+    {
+      "value": "GBAUPOCMIDNTS",
+      "name": "Port Clarence - North Tees Site, Jetties 1A, 2 & 3"
+    },
+    {
+      "value": "GBAUPOOPOOHWW",
+      "name": "Poole - Hamworthy Wharf"
+    },
+    {
+      "value": "GBAUPOOPOOPOO",
+      "name": "Poole "
+    },
+    {
+      "value": "GBAUPRHWEYIBB",
+      "name": "Portland Harbour - Inner Breakwater Berth"
+    },
+    {
+      "value": "GBAUPRHWEYPRH",
+      "name": "Portland Harbour "
+    },
+    {
+      "value": "GBAUPRTABDPRT",
+      "name": "Portree, Isle of Skye "
+    },
+    {
+      "value": "GBAUPSBKLNPSB",
+      "name": "Sutton Bridge Port"
+    },
+    {
+      "value": "GBAUPTBPTBPTB",
+      "name": "Port Talbot "
+    },
+    {
+      "value": "GBAUPTSSHOPTS",
+      "name": "Portslade - Texaco Wharf"
+    },
+    {
+      "value": "GBAURCSMEDRCW",
+      "name": "Rochester - Crown Wharf"
+    },
+    {
+      "value": "GBAURENGLWREN",
+      "name": "Renfrew - Lobnitz Dock"
+    },
+    {
+      "value": "GBAURERMIDRED",
+      "name": "Redcar "
+    },
+    {
+      "value": "GBAURIDMEDGHJ",
+      "name": "Ridham Dock - Grovehurst Jetty, Iwade"
+    },
+    {
+      "value": "GBAURIDMEDRBS",
+      "name": "Ridham Dock - East Side [Robert Brett & Sons]"
+    },
+    {
+      "value": "GBAURIDMEDRST",
+      "name": "Ridham Dock - West Side [Ridham Sea Terminals]"
+    },
+    {
+      "value": "GBAURMGRMGRMG",
+      "name": "Ramsgate "
+    },
+    {
+      "value": "GBAUROYROSRND",
+      "name": "Rosyth Dockyard"
+    },
+    {
+      "value": "GBAUROYROSROY",
+      "name": "Rosyth - North Wall"
+    },
+    {
+      "value": "GBAURS8CWLRS8",
+      "name": "Cardiff International Airport - Rhoose"
+    },
+    {
+      "value": "GBAURUNRUNRUN",
+      "name": "Runcorn"
+    },
+    {
+      "value": "GBAURYEDOGRYE",
+      "name": "Rye Wharf"
+    },
+    {
+      "value": "GBAUSCFKWLSCF",
+      "name": "Scapa "
+    },
+    {
+      "value": "GBAUSCRINVSCR",
+      "name": "Scrabster "
+    },
+    {
+      "value": "GBAUSEASUNSEA",
+      "name": "Seaham Harbour"
+    },
+    {
+      "value": "GBAUSENSENSEN",
+      "name": "London Southend Airport"
+    },
+    {
+      "value": "GBAUSFDMNCCSR",
+      "name": "Stretford - Cerestar Wharf, MSC"
+    },
+    {
+      "value": "GBAUSFDMNCDD1",
+      "name": "Stretford - Dry Dock 1, MSC"
+    },
+    {
+      "value": "GBAUSHKSHOSHK",
+      "name": "Southwick - Penney's & Turberville Wharves"
+    },
+    {
+      "value": "GBAUSHSMEDSHS",
+      "name": "Sheerness Docks"
+    },
+    {
+      "value": "GBAUSILSILSIL",
+      "name": "Silloth Dock"
+    },
+    {
+      "value": "GBAUSLHLONCRT",
+      "name": "Stanford-le-Hope - Coryton Jetty"
+    },
+    {
+      "value": "GBAUSLHLONSHJ",
+      "name": "Stanford-le-Hope - Shell Haven Jetty"
+    },
+    {
+      "value": "GBAUSNSKWLSNS",
+      "name": "Stromness "
+    },
+    {
+      "value": "GBAUSOUSTNPWS",
+      "name": "Southampton - Princes Wharf"
+    },
+    {
+      "value": "GBAUSOUSTNSOU",
+      "name": "Southampton Docks"
+    },
+    {
+      "value": "GBAUSPKLPLSPK",
+      "name": "Liverpool John Lennon Airport - Speke"
+    },
+    {
+      "value": "GBAUSSHTYNSSH",
+      "name": "South Shields [Tyne Dock]"
+    },
+    {
+      "value": "GBAUSSSSSSSSS",
+      "name": "Sharpness Docks"
+    },
+    {
+      "value": "GBAUSTDMEDSLT",
+      "name": "Strood - Scotline Terminal"
+    },
+    {
+      "value": "GBAUSTNLSASTN",
+      "name": "London Stansted Airport"
+    },
+    {
+      "value": "GBAUSTOSTOARN",
+      "name": "Stornoway - Arnish Quay"
+    },
+    {
+      "value": "GBAUSTOSTOSTO",
+      "name": "Stornoway "
+    },
+    {
+      "value": "GBAUSULLERSUL",
+      "name": "Sullom Voe "
+    },
+    {
+      "value": "GBAUSUNSUNSUN",
+      "name": "Sunderland "
+    },
+    {
+      "value": "GBAUSVTLONTLS",
+      "name": "Silvertown - Thames Refinery [Silvertown & Cairns M"
+    },
+    {
+      "value": "GBAUSWASWAKDE",
+      "name": "Swansea - E Berth, Kings Dock"
+    },
+    {
+      "value": "GBAUSWASWASWA",
+      "name": "Swansea "
+    },
+    {
+      "value": "GBAUSWYLERSWY",
+      "name": "Scalloway Harbour"
+    },
+    {
+      "value": "GBAUTEEMIDINE",
+      "name": "Seal Sands - No 1 and 2 Jetties, Seal Sands - [INEO"
+    },
+    {
+      "value": "GBAUTEEMIDQPT",
+      "name": "Teesport - Quay 1, Potash Terminal"
+    },
+    {
+      "value": "GBAUTEEMIDTEE",
+      "name": "Teesport "
+    },
+    {
+      "value": "GBAUTILLONTIL",
+      "name": "Tilbury Docks"
+    },
+    {
+      "value": "GBAUTNMTNMTNM",
+      "name": "Teignmouth - Old, Eastern & Western Quays"
+    },
+    {
+      "value": "GBAUTOBARGTOB",
+      "name": "Tobermory - Ledaig Pontoons, Isle of Mull"
+    },
+    {
+      "value": "GBAUTORTNMTOR",
+      "name": "Torquay - Haldon Pier, South Pier & Beacon Quay"
+    },
+    {
+      "value": "GBAUTRNGLWTRN",
+      "name": "Troon "
+    },
+    {
+      "value": "GBAUTRUFALTRU",
+      "name": "Truro - Lighterage Quay"
+    },
+    {
+      "value": "GBAUTTLHULTTL",
+      "name": "Tetney Terminal - Mono Mooring Buoy"
+    },
+    {
+      "value": "GBAUULLINVULL",
+      "name": "Ullapool "
+    },
+    {
+      "value": "GBAUUURBOHUUR",
+      "name": "Bournemouth International Airport - Hurn"
+    },
+    {
+      "value": "GBAUWEYWEYWEY",
+      "name": "Weymouth "
+    },
+    {
+      "value": "GBAUWICINVWIC",
+      "name": "Wick "
+    },
+    {
+      "value": "GBAUWISKLNWIS",
+      "name": "Wisbech [Port of]"
+    },
+    {
+      "value": "GBAUWLALONBTW",
+      "name": "Wallasea Island - Baltic Wharf"
+    },
+    {
+      "value": "GBAUWLKTYNNEP",
+      "name": "Walker - Neptune Energy Park"
+    },
+    {
+      "value": "GBAUWLKTYNOTP",
+      "name": "Walker - Offshore Technology Park"
+    },
+    {
+      "value": "GBAUWORWORWOR",
+      "name": "Workington "
+    },
+    {
+      "value": "GBAUWPTWPTWPT",
+      "name": "Warrenpoint Harbour"
+    },
+    {
+      "value": "GBAUWTSWTSWTS",
+      "name": "Whitstable "
+    },
+    {
+      "value": "GBAUXSSMIDEKO",
+      "name": "Seal Sands - Ekofisk No's 1-6 & 8 Jetties"
+    },
+    {
+      "value": "GBAUXSSMIDITT",
+      "name": "Seal Sands - No 1 and 2 Jetties, Seal Sands - [Inte"
+    },
+    {
+      "value": "GBAUXSSMIDNAV",
+      "name": "Seal Sands - 1,2,& 3 Jetties, Navigator Terminals"
+    },
+    {
+      "value": "GBAUYDNLBAMFL",
+      "name": "Leeds Bradford Airport – Yeadon [Multiflight Ltd]"
+    },
+    {
+      "value": "GBAUYDNLBAYDN",
+      "name": "Leeds Bradford Airport - Yeadon"
+    },
+    {
+      "value": "GBCUABPCWLABP",
+      "name": "West Wales Airport - Aberporth"
+    },
+    {
+      "value": "GBCUALRLHRSTO",
+      "name": "Brimpton Airfield - Aldermaston "
+    },
+    {
+      "value": "GBCUASDDOVASD",
+      "name": "Lashenden / Headcorn Aerodrome - Ashford"
+    },
+    {
+      "value": "GBCUAWLFXTBAC",
+      "name": "Old Buckenham Airfield - Attleborough"
+    },
+    {
+      "value": "GBCUAWLFXTTAC",
+      "name": "Old Buckenham Airfield - Attleborough"
+    },
+    {
+      "value": "GBCUBB2BHXBB2",
+      "name": "Wolverhampton Halfpenny Green Airport - Bobbington"
+    },
+    {
+      "value": "GBCUBBPPTMBBP",
+      "name": "Bembridge Airfield [IoW]"
+    },
+    {
+      "value": "GBCUBBSLHRBBS",
+      "name": "Blackbushe Airport"
+    },
+    {
+      "value": "GBCUBCCFXTBCC",
+      "name": "Beccles Airfield"
+    },
+    {
+      "value": "GBCUBCKLTNBCK",
+      "name": "Turweston Aerodrome - Brackley "
+    },
+    {
+      "value": "GBCUBDMPLYBDM",
+      "name": "Bodmin Airfield"
+    },
+    {
+      "value": "GBCUBEFLTNBEF",
+      "name": "Thurleigh Airfield - Bedford "
+    },
+    {
+      "value": "GBCUBHDBHDBHD",
+      "name": "George Best Belfast City Apt / Belfast "
+    },
+    {
+      "value": "GBCUBIDPLHBID",
+      "name": "Bideford - Portledge Helipad"
+    },
+    {
+      "value": "GBCUBIFLIVBWF",
+      "name": "Walney Aerodrome - Barrow in Furness"
+    },
+    {
+      "value": "GBCUBLKLIVBLK",
+      "name": "Blackpool Airport"
+    },
+    {
+      "value": "GBCUBNOBHXBNO",
+      "name": "Tatenhill Airfield - Barton-under-Needwood"
+    },
+    {
+      "value": "GBCUBSFEMABSF",
+      "name": "Nottingham City Airport - Bassingfield"
+    },
+    {
+      "value": "GBCUBTTLHRBTT",
+      "name": "London Heliport - Battersea "
+    },
+    {
+      "value": "GBCUCAXLIVCAX",
+      "name": "Carlisle Airport"
+    },
+    {
+      "value": "GBCUCGVLHRCGV",
+      "name": "Chalgrove Airfield"
+    },
+    {
+      "value": "GBCUCHBLHRCHB",
+      "name": "Fairoaks Airport - Chobham "
+    },
+    {
+      "value": "GBCUCLDGLACLD",
+      "name": "Cumbernauld Airport"
+    },
+    {
+      "value": "GBCUCLSHRHCLS",
+      "name": "Clacton-on-Sea Airfield"
+    },
+    {
+      "value": "GBCUCNBDOVCNB",
+      "name": "Maypole Airfield - Canterbury"
+    },
+    {
+      "value": "GBCUCNVHLDCNV",
+      "name": "Caernarfon Airport"
+    },
+    {
+      "value": "GBCUCPNBRSCPN",
+      "name": "Garstom Farm Airfield - Chippenham"
+    },
+    {
+      "value": "GBCUCRFLTNCRF",
+      "name": "Cranfield Airport"
+    },
+    {
+      "value": "GBCUDHMLHRDHM",
+      "name": "Denham Aerodrome"
+    },
+    {
+      "value": "GBCUDIDLHRDID",
+      "name": "North Moreton Airstrip - Didcot "
+    },
+    {
+      "value": "GBCUDKWPLHDKW",
+      "name": "Dunkeswell Airfield [Honiton]"
+    },
+    {
+      "value": "GBCUDONDSADON",
+      "name": "Robin Hood Doncaster Sheffield Airport - Doncaster"
+    },
+    {
+      "value": "GBCUDUNDUNDUN",
+      "name": "Dundee Airport"
+    },
+    {
+      "value": "GBCUDXFLSADXF",
+      "name": "Duxford Airfield"
+    },
+    {
+      "value": "GBCUECOHRHECO",
+      "name": "Earls Colne Airfield"
+    },
+    {
+      "value": "GBCUECSMANECS",
+      "name": "Manchester Barton City Airport - Eccles"
+    },
+    {
+      "value": "GBCUEENBHXEEN",
+      "name": "Shobdon Airfield"
+    },
+    {
+      "value": "GBCUENKBFSENK",
+      "name": "St Angelo Airport - Enniskillen"
+    },
+    {
+      "value": "GBCUETRLHRETR",
+      "name": "London Elstree Aerodrome - Elstree"
+    },
+    {
+      "value": "GBCUFGNTHPFGN",
+      "name": "Brands Hatch Helipads - Fawkham Green "
+    },
+    {
+      "value": "GBCUFODLHRFOD",
+      "name": "Old Sarum Airfield - Ford"
+    },
+    {
+      "value": "GBCUFR4LHRFR4",
+      "name": "Frensham – Wishanger Park"
+    },
+    {
+      "value": "GBCUFRELSAFRE",
+      "name": "Fowlmere Aerodrome"
+    },
+    {
+      "value": "GBCUFSTLBAFST",
+      "name": "Full Sutton Airfield"
+    },
+    {
+      "value": "GBCUGAIDSAGAI",
+      "name": "Sturgate Aerodrome - Gainsborough"
+    },
+    {
+      "value": "GBCUGLOGLOGLO",
+      "name": "Gloucester (Staverton) Airport"
+    },
+    {
+      "value": "GBCUGMTDSAGMT",
+      "name": "Retford (Gamston) Airport - Gamston"
+    },
+    {
+      "value": "GBCUGSLLSAGSL",
+      "name": "Saling Airfield - Great Saling"
+    },
+    {
+      "value": "GBCUHDLFXTHDL",
+      "name": "Elmsett Airfield - Hadleigh"
+    },
+    {
+      "value": "GBCUHMELSAHME",
+      "name": "Peterborough (Conington) Business Airfield - Holme"
+    },
+    {
+      "value": "GBCUHVRCWLHVR",
+      "name": "Haverfordwest Airport"
+    },
+    {
+      "value": "GBCUHWNHLDHWN",
+      "name": "Chester Airport - Hawarden"
+    },
+    {
+      "value": "GBCUINVINVINV",
+      "name": "Inverness Airport"
+    },
+    {
+      "value": "GBCUISCPLYISC",
+      "name": "St Mary's Airport - Isles of Scilly"
+    },
+    {
+      "value": "GBCUKEMKEMKEM",
+      "name": "Kemble Airfield"
+    },
+    {
+      "value": "GBCUKMTLHRKMT",
+      "name": "Thruxton Aerodrome - Kimpton "
+    },
+    {
+      "value": "GBCUKWLKWLKWL",
+      "name": "Kirkwall Airport"
+    },
+    {
+      "value": "GBCUKZOLHRKZO",
+      "name": "Oxford Airport - Kidlington "
+    },
+    {
+      "value": "GBCULATBRSLAT",
+      "name": "Curry Rivel Airstrip - Langport"
+    },
+    {
+      "value": "GBCULCSEMALCS",
+      "name": "Leicester Airport"
+    },
+    {
+      "value": "GBCULDYLDYLDY",
+      "name": "City of Derry Airport - Londonderry"
+    },
+    {
+      "value": "GBCULEDBRSLED",
+      "name": "Berrow Airfield - Ledbury"
+    },
+    {
+      "value": "GBCULESPTMLES",
+      "name": "Daedalus [Solent] Airfield - Lee-on-Solent "
+    },
+    {
+      "value": "GBCULORDSALOR",
+      "name": "Wickenby Aerodome - Langworth"
+    },
+    {
+      "value": "GBCULPREDILPR",
+      "name": "Perth Airport - Balbeggie"
+    },
+    {
+      "value": "GBCULTDPLYLTD",
+      "name": "Bolt Head Airfield"
+    },
+    {
+      "value": "GBCULWENHVLWE",
+      "name": "Deanland Airfield - Lewes "
+    },
+    {
+      "value": "GBCUMDSLHRMDS",
+      "name": "Popham Airfield - Micheldever"
+    },
+    {
+      "value": "GBCUMLWLHRMLW",
+      "name": "Wycombe Air Park - Marlow"
+    },
+    {
+      "value": "GBCUMMBLHRMMB",
+      "name": "Manor Farm - Malmesbury"
+    },
+    {
+      "value": "GBCUNPTCWLNPT",
+      "name": "Newport City Aerodrome"
+    },
+    {
+      "value": "GBCUNWLLSANWL",
+      "name": "North Weald [Bassett] Airfield"
+    },
+    {
+      "value": "GBCUOKEDSAOKE",
+      "name": "Gamston Airfield - Stokeham"
+    },
+    {
+      "value": "GBCUPMYCWLPMY",
+      "name": "Wales West Airport - Pembrey"
+    },
+    {
+      "value": "GBCUPNPPLYPNP",
+      "name": "Perranporth Airfield"
+    },
+    {
+      "value": "GBCUQLALASATC",
+      "name": "Lasham Airfield"
+    },
+    {
+      "value": "GBCUQLALASLGS",
+      "name": "Lasham Airfield"
+    },
+    {
+      "value": "GBCUQUGPTMQUG",
+      "name": "Goodwood Aerodrome"
+    },
+    {
+      "value": "GBCURCSTHPRCS",
+      "name": "Rochester Airport"
+    },
+    {
+      "value": "GBCUREHLGWREH",
+      "name": "Redhill Aerodrome"
+    },
+    {
+      "value": "GBCURRSBRSRRS",
+      "name": "Henstridge Airfield"
+    },
+    {
+      "value": "GBCUSAWLSASAW",
+      "name": "Audley End Airfield – Saffron Walden"
+    },
+    {
+      "value": "GBCUSBALONSBA",
+      "name": "Stapleford Airfield - Stapleford Abbots "
+    },
+    {
+      "value": "GBCUSBLLBASBL",
+      "name": "Sherburn Airfield - Sherburn in Elmet "
+    },
+    {
+      "value": "GBCUSCSABZSCS",
+      "name": "Scatsta Heliport"
+    },
+    {
+      "value": "GBCUSD5DSASD5",
+      "name": "Sandtoft Airfield"
+    },
+    {
+      "value": "GBCUSDOPTMSDO",
+      "name": "Sandown – IoW Airport"
+    },
+    {
+      "value": "GBCUSHBSOUSHB",
+      "name": "Compton Abbas Airfield - Shaftesbury"
+    },
+    {
+      "value": "GBCUSHHFXTSHH",
+      "name": "Shipdham Airfield"
+    },
+    {
+      "value": "GBCUSIHLHRSIH",
+      "name": "Saint Athan - RAF MOD Base"
+    },
+    {
+      "value": "GBCUSIYBHXSIY",
+      "name": "Woods Farm, Shirley "
+    },
+    {
+      "value": "GBCUSJUPLHSJU",
+      "name": "Lands End Aerodrome - Saint Just "
+    },
+    {
+      "value": "GBCUSJYPOOSJY",
+      "name": "Knoll House - Studland"
+    },
+    {
+      "value": "GBCUSPKLPLSPK",
+      "name": "Speke -  Liverpool John Lennon Airport"
+    },
+    {
+      "value": "GBCUSSJFXTSSJ",
+      "name": "Fenland Airfield - Sutton Saint James"
+    },
+    {
+      "value": "GBCUSTGFXTSTG",
+      "name": "Seething Airfield"
+    },
+    {
+      "value": "GBCUSTOSTOSTO",
+      "name": "Stornoway Airport"
+    },
+    {
+      "value": "GBCUSWACWLSWA",
+      "name": "Swansea Airport"
+    },
+    {
+      "value": "GBCUSYWLTNSYW",
+      "name": "Sywell [Northampton] Aerodrome"
+    },
+    {
+      "value": "GBCUUMBPLHUMB",
+      "name": "Eaglescott Airfield - Umberleigh "
+    },
+    {
+      "value": "GBCUVLYHLDVLY",
+      "name": "Mona Aerodrome - Anglesey"
+    },
+    {
+      "value": "GBCUWGCLTNWGC",
+      "name": "Panshanger Aerodrome - Welwyn Garden City "
+    },
+    {
+      "value": "GBCUWICWIKWIC",
+      "name": "Wick Airport"
+    },
+    {
+      "value": "GBCUWNRBHXWNR",
+      "name": "Sleap Airfield - Wem [Shrewsbury]"
+    },
+    {
+      "value": "GBCUWPSHLDWPS",
+      "name": "Welshpool Aerodrome"
+    },
+    {
+      "value": "GBCUWRKDSAWRK",
+      "name": "Netherthorpe Airfield - Worksop"
+    },
+    {
+      "value": "GBCUWRTWARBAE",
+      "name": "Warton Aerodrome"
+    },
+    {
+      "value": "GBCUWSUBHXWSU",
+      "name": "Wellesbourne Mountford Airfield"
+    },
+    {
+      "value": "GBCUWWMLHRWWM",
+      "name": "White Waltham Airfield"
+    },
+    {
+      "value": "GBCUYEOYVLYEO",
+      "name": "Yeovil Aerodrome"
+    },
+    {
+      "value": "IMAUDGSDGSDGS",
+      "name": "Douglas (IOM)"
+    },
+    {
+      "value": "IMAUIOMRWYIOM",
+      "name": "Ronaldsway Airport (IOM)"
+    },
+    {
+      "value": "IMAUPELPELPEL",
+      "name": "Peel (Isle of Man)"
+    },
+    {
+      "value": "IMAURAMRSYRAM",
+      "name": "Ramsey (Isle of Man)"
+    }
+  ]
+}

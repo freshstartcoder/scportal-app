@@ -1,0 +1,112 @@
+<div class="parent">
+
+      <mat-form-field >
+      <mat-label>Trailer Number</mat-label>
+      <input matInput placeholder="Eg. KJ137" [formControl]="trlno" required class="right">
+      <mat-error *ngIf="trlno.invalid">{{getErrorMessage()}}</mat-error>
+    </mat-form-field>
+    <br>
+        <mat-form-field>
+        <mat-label>Despatch date</mat-label>
+        <input matInput placeholder="Eg. 25/12/2020" [formControl]="despatchdate" [matDatepicker]="ddate"  required class="right">
+        <mat-datepicker-toggle matSuffix [for]="ddate"></mat-datepicker-toggle>
+        <mat-datepicker #ddate></mat-datepicker>
+        <mat-error *ngIf="despatchdate.invalid">{{getErrorMessage()}}</mat-error>
+      </mat-form-field>
+
+    <mat-form-field >
+      <mat-label>Co-load at Islip and Thrapston</mat-label>
+      <mat-select required class="right">
+        <mat-option value="optionYes">Yes</mat-option>
+        <mat-option value="optionNo">No</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Type of Movement</mat-label>
+        <mat-select required class="right">
+            <mat-option value="option1">Ro-Ro</mat-option>
+            <mat-option value="option2">Sea</mat-option>
+            <mat-option value="option2">Water</mat-option>
+          </mat-select>
+       </mat-form-field>
+
+    <mat-form-field >
+        <mat-label>Identity Number of Transport</mat-label>
+        <input matInput [formControl]="transID" required class="right">
+        <mat-error *ngIf="transID.invalid">{{getErrorMessage()}}</mat-error>
+       </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Conveyance Reference Number</mat-label>
+        <input matInput [formControl]="convRef" required class="right"> 
+        <mat-error *ngIf="convRef.invalid">{{getErrorMessage()}}</mat-error>
+       </mat-form-field>
+
+    <mat-form-field >
+        <mat-label>Nationality of Means of Transport</mat-label>
+        <mat-select required class="right">
+            <mat-option value="GB">United Kingdom</mat-option>
+            <mat-option value="DE">Germany</mat-option>
+            <mat-option value="FR">France</mat-option>
+          </mat-select>
+       </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Port of Arrival</mat-label>
+        <mat-select required class="right">
+            <mat-option value="BEL">Belfast</mat-option>
+          </mat-select>
+       </mat-form-field>
+
+    <mat-form-field >
+        <mat-label>Arrival Date/Time</mat-label>
+        <input matInput [formControl]="arrivaldatetime" [matDatepicker]="adatetime"  required class="right">
+        <mat-datepicker-toggle matSuffix [for]="adatetime"></mat-datepicker-toggle>
+        <mat-datepicker #adatetime></mat-datepicker>
+        <mat-error *ngIf="arrivaldatetime.invalid">{{getErrorMessage()}}</mat-error>
+       </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Route</mat-label>
+        <mat-select required class="right">
+            <mat-option value="GBNI">GB-NI</mat-option>
+          </mat-select>
+       </mat-form-field>
+
+    <mat-form-field >
+        <mat-label>Place(s) of Loading</mat-label>
+        <input matInput [formControl]="placeLoading" required class="right">
+        <mat-error *ngIf="placeLoading.invalid">{{getErrorMessage()}}</mat-error>
+       </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Seal Number</mat-label>
+        <input matInput [formControl]="sealNo" class="right">
+       </mat-form-field>
+
+    <mat-form-field >
+        <mat-label>Place(s) of Unloading</mat-label>
+        <input matInput [formControl]="placeunLoading" required class="right">
+        <mat-error *ngIf="placeunLoading.invalid">{{getErrorMessage()}}</mat-error>
+       </mat-form-field>
+    <br>
+    <mat-form-field >
+        <mat-label>Transport Charges</mat-label>
+        <mat-select required class="right">
+            <mat-option value="1">Cash</mat-option>
+            <mat-option value="2">Card</mat-option>
+            <mat-option value="3">Cheque</mat-option>
+            <mat-option value="4">Account</mat-option>
+          </mat-select>
+       </mat-form-field>
+
+<br>
+</div>
+
+<div class="buttons">
+<button mat-stroked-button>Submit</button>
+<button mat-stroked-button>Reset</button>
+</div>
+
+

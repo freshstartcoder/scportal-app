@@ -1,0 +1,12 @@
+{
+  "movement_type": [
+    {
+      "value": "3",
+      "name": "RoRo (Accompanied / Unaccompanied)"
+    },
+    {
+      "value": "4",
+      "name": "Air"
+    }
+  ]
+}
