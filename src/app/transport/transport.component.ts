@@ -124,7 +124,7 @@ const TRAILER_DATA: TrailerData[] = [
     status:'Submitted',
   },{
     warehouseID:956,
-    warehouseName:'Thrapstom',
+    warehouseName:'Thrapston',
     despatchDateTime:'25-Jan-2021 19:20:23',
     status:'Submitted',
   }]
